@@ -172,7 +172,7 @@ task-cli list in-progress
 ```text
 task-cli/
 ├── main.go
-├── tasks.json
+├── todo.json
 ├── README.md
 └── ...
 ```
