@@ -177,6 +177,20 @@ task-cli/
 └── ...
 ```
 
+## 🌍 Project Inspiration
+
+This project is based on the Task Tracker challenge from Roadmap.sh:
+
+👉 https://roadmap.sh/projects/task-tracker
+
+It is a great backend beginner project focused on:
+
+- CLI application development
+- File-based data persistence
+- CRUD operations
+- Task state management
+- Clean software architecture
+
 ---
 
 # 🤝 Contributing
